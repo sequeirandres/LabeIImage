@@ -18,14 +18,12 @@ It is written in Python and uses Qt for its graphical interface.
 Annotations are saved as XML files in PASCAL VOC format, the format used
 by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO format
 
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/labelImage.jpg
+.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/abelImage1.jpg
      :alt: Demo Image
 
-`Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
 
 Installation
-------------------
-
+-------------
 
 Build from source
 ~~~~~~~~~~~~~~~~~
